@@ -4,3 +4,5 @@ function booWho(bool) {
   }
   
   booWho(null);
+
+  //will return true or false
